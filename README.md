@@ -1,2 +1,2 @@
-# Marine-CNN-Classifier
- Basic Convolutional Neural Network for labeling marine species
+# Mammal-CNN-Classifier
+ Basic Convolutional Neural Network for binary classification of labeling lions vs tigers
